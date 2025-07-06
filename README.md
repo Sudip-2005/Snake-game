@@ -1,6 +1,5 @@
-Here's a clean, professional `README.md` for your **Snake Game project** — perfect for GitHub and portfolio visibility.
 
----
+
 
 ````markdown
 # 🐍 Snake Game – Python & Pygame
@@ -75,17 +74,3 @@ This project is open source and free to use under the [MIT License](LICENSE).
 
 Enjoy playing and modifying the Snake Game!
 
-```
-
----
-
-### ✅ What to do now:
-
-1. **Create a `README.md` file** in your GitHub repo and paste this in.
-2. (Optional) Take a screenshot of the game and save it as `screenshot.png` in the same folder.
-3. Add a `LICENSE` file if you want to officially make it open-source (MIT is most common).
-
-Let me know if you'd like a version with emojis removed or simplified formatting.
-```
-# Snake-game
-A simple python based snake game
