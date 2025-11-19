@@ -2,7 +2,7 @@
 
 
 ````markdown
-# 🐍 Snake Game – Python & Pygame
+# 🐍 Snake Game – Python 
 
 A simple, fun, and fully functional Snake game built using Python and the Pygame library. This project was created to practice logic-building, grid-based movement, and game loop handling.
 
